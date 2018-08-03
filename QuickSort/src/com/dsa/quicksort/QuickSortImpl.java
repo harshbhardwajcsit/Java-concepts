@@ -12,7 +12,7 @@ public class QuickSortImpl implements QuickSort {
         int pivotIndex=end;
         int current=beg;
         int index=beg;
-        for(int i=current;i<end;i++,current++){
+        for(int i=current;i<=end;i++,current++){
             if(current<pivotIndex){
                 if(array[current]<pivot){
                     int temp=array[current];
