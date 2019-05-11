@@ -3,7 +3,7 @@ package com.practise.warmUp.com.practise.warmUp.main;
 public class WarmupImpl implements Warmup {
     @Override
     public int findMax(int[] array) {
-        if (array.length == 0) {
+        if (array == null || array.length == 0) {
             return -1;
         }
 
@@ -16,9 +16,9 @@ public class WarmupImpl implements Warmup {
         return maximumIndex;
     }
 
-    public static void main(String args[]){
-        Warmup warmup=new WarmupImpl();
-        int array[]={};
+    public static void main(String args[]) {
+        Warmup warmup = new WarmupImpl();
+        int array[] = {};
         System.out.println(warmup.findMax(array));
     }
 }

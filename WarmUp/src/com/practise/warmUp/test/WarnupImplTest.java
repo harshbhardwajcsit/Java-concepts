@@ -8,6 +8,7 @@ import org.testng.annotations.Test;
 public class WarnupImplTest {
 
     private WarmupImpl warmupTest;
+
     @BeforeMethod
     public void setUp() throws Exception {
         warmupTest = new WarmupImpl();
@@ -20,9 +21,20 @@ public class WarnupImplTest {
     }
 
     @Test
+    public void testIfArrayIsNull() throws Exception {
+        int[] A = null;
+        Assert.assertEquals(warmupTest.findMax(A), -1);
+    }
+
+    @Test
     public void testForArrayWithNonNegativeInterger() throws Exception {
         int[] A = {1, 3, 5};
+        Assert.assertEquals(warmupTest.findMax(A), 2);
+    }
 
+    @Test
+    public void testForArrayWithTwoEqualMaxIntegers() throws Exception {
+        int[] A = {1, 3, 5, 4, 5};
         Assert.assertEquals(warmupTest.findMax(A), 2);
     }
 

@@ -8,8 +8,10 @@ import org.testng.annotations.Test;
 import java.util.HashMap;
 import java.util.Map;
 
+import static org.testng.Assert.assertNotNull;
 import static org.testng.AssertJUnit.assertEquals;
 import static org.testng.AssertJUnit.assertTrue;
+import static org.testng.FileAssert.fail;
 
 public class MapDecoderImplTest {
 
@@ -21,36 +23,65 @@ public class MapDecoderImplTest {
     }
 
     @Test
-    public void testForEmptyArray() throws Exception {
-        String string="key1=value1&key2=value2&=&&&&&";
-        Map<String,String> actualResult = mapDecoder.decode(string);
-        Map<String,String> expectedResult=new HashMap<>();
-        expectedResult.put("key1","value1");
-        expectedResult.put("key2","value2");
-        assertEquals(expectedResult,actualResult);
+    public void decodeMap() throws Exception {
+        final String input = "one=1&two=2";
+        Map<String, String> result = mapDecoder.decode(input);
+
+        Map<String, String> expected = new HashMap<>();
+        expected.put("one", "1");
+        expected.put("two", "2");
+
+        assertEquals(expected, result);
     }
 
     @Test
-    public void testForEmptyString() throws Exception{
-        String string="";
-        Map<String,String> actualResult = mapDecoder.decode(string);
-        Map<String,String> expectedResult=new HashMap<>();
-        assertEquals(expectedResult,actualResult);
+    public void decodeMapForEmptyKey() throws Exception {
+        final String input = "=1&two=2";
+        Map<String, String> result = mapDecoder.decode(input);
+
+        Map<String, String> expected = new HashMap<>();
+        expected.put("", "1");
+        expected.put("two", "2");
+
+        assertEquals(expected, result);
     }
 
-    @Test(expectedExceptions =IllegalArgumentException.class )
-    public void testForInvalidParameters() throws Exception {
-        //given
-        String string="key1=value1&key2=value2&=&&&&&";
+    @Test
+    public void decodeMapForEmptyValue() throws Exception {
+        final String input = "one=1&two=";
+        Map<String, String> result = mapDecoder.decode(input);
 
-        boolean isThrowableException=false;
-        try{
-            Map<String,String> actualResult = mapDecoder.decode(string);
-        }catch (IllegalArgumentException exception){
-            isThrowableException=true;
-        }
-        assertTrue(isThrowableException);
+        Map<String, String> expected = new HashMap<>();
+        expected.put("one", "1");
+        expected.put("two", "");
 
+        assertEquals(expected, result);
+    }
+
+    @Test
+    public void decodeMapForEmptyString() throws Exception {
+        final String input = "";
+        Map<String, String> result = mapDecoder.decode(input);
+
+        Map<String, String> expected = new HashMap<>();
+        assertEquals(expected, result);
+    }
+
+    @Test
+    public void decodeMapForNullInput() throws Exception {
+        final String input = null;
+        Map<String, String> result = mapDecoder.decode(input);
+
+        assertEquals(null, result);
+    }
+
+    @Test(expectedExceptions=IllegalArgumentException.class)
+    public void decodeMapForInvalidFormat() throws Exception {
+        final String input = "key=value&another.key:another.value";
+        Map<String, String> result = mapDecoder.decode(input);
+
+        assertNotNull(result);
+        fail("It should not be decoded as a map since the second key-value item is of invalid format");
     }
 
 }

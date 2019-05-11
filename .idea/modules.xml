@@ -3,13 +3,21 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ChainOfResponsibility/ChainOfResponsibility.iml" filepath="$PROJECT_DIR$/ChainOfResponsibility/ChainOfResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompetitiveProgramming/CompetitiveProgramming.iml" filepath="$PROJECT_DIR$/CompetitiveProgramming/CompetitiveProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DualPivotQuickSort/DualPivotQuickSort.iml" filepath="$PROJECT_DIR$/DualPivotQuickSort/DualPivotQuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Invoice/Invoice.iml" filepath="$PROJECT_DIR$/Invoice/Invoice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java8/Java8.iml" filepath="$PROJECT_DIR$/Java8/Java8.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaProject.iml" filepath="$PROJECT_DIR$/JavaProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/MapDecoder/MapDecoder.iml" filepath="$PROJECT_DIR$/MapDecoder/MapDecoder.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" filepath="$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/OppsConcepts/OppsConcepts.iml" filepath="$PROJECT_DIR$/OppsConcepts/OppsConcepts.iml" />
       <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" filepath="$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringConcepts/StringConcepts.iml" filepath="$PROJECT_DIR$/StringConcepts/StringConcepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threading/Threading.iml" filepath="$PROJECT_DIR$/Threading/Threading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TriesStructure/TriesStructure.iml" filepath="$PROJECT_DIR$/TriesStructure/TriesStructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/WarmUp/WarmUp.iml" filepath="$PROJECT_DIR$/WarmUp/WarmUp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codingz/codingz.iml" filepath="$PROJECT_DIR$/codingz/codingz.iml" />
       <module fileurl="file://$PROJECT_DIR$/findArray/findArray.iml" filepath="$PROJECT_DIR$/findArray/findArray.iml" />
     </modules>
   </component>

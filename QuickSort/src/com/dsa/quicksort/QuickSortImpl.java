@@ -1,8 +1,9 @@
 package com.dsa.quicksort;
+import java.util.Arrays;
 
 public class QuickSortImpl implements QuickSort {
 
-    public static  int[] unsortedArray = {11,16,2,8,1,9,4,7};
+    public static  int[] unsortedArray = {11,16,2,8,1,9,4,7,91,17,1,90,16,15,4,3,2,90};
 
     @Override
     public int partition(int[] array,int beg,int end) {
@@ -45,6 +46,7 @@ public class QuickSortImpl implements QuickSort {
             quickSort(unsortedArray, partitionIndex + 1, end);
         }
         System.out.println(unsortedArray);
+//        Arrays.sort(unsortedArray);
 
     }
 

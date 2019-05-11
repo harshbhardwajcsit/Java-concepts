@@ -8,16 +8,35 @@ import java.util.regex.Pattern;
 
 public class MapDecoderImpl implements MapDecoder {
     @Override
-    public Map<String, String> decode(String string) {
+    public Map<String, String> decode(String s) {
 
-        if (string == null)
+//        Map<String, String> decodeMap = null;
+//        if (s != null) {
+//            decodeMap = new HashMap<>(0);
+//            if (!s.isEmpty()) {
+//                String[] keyValueArr = s.split("&");
+//
+//                for (String keyValuePair : keyValueArr) {
+//                    if (!keyValuePair.contains("=")) {
+//                        throw new IllegalArgumentException("Key Value pair is of invalid format");
+//                    }
+//
+//                    String[] mapString = keyValuePair.split("=");
+//                    decodeMap.put(mapString[0], mapString.length > 1 ? mapString[1] : "");
+//                }
+//            }
+//        }
+//        return decodeMap;
+
+
+        if (s == null)
             return null;
 
         final Map<String, String> decodedMap = new HashMap<>();
-        if (string.length() == 0)
+        if (s.length() == 0)
             return decodedMap;
 
-        final StringTokenizer queryParamTokenizer = new StringTokenizer(string, "&");
+        final StringTokenizer queryParamTokenizer = new StringTokenizer(s, "&");
 
         while (queryParamTokenizer.hasMoreTokens()) {
             final String token = queryParamTokenizer.nextToken();
@@ -31,5 +50,9 @@ public class MapDecoderImpl implements MapDecoder {
         }
 
         return decodedMap;
-    }
+
+
+
+
+  }
 }

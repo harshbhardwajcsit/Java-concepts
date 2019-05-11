@@ -22,15 +22,15 @@ public class FindArrayImplTest {
     @Test
     public void testForEmptySubArray() throws Exception {
         int[] A = {1, 3, 5, 3, 6};
-        int [] B= {};
-        Assert.assertEquals(findArray.findArray(A,B), -1);
+        int [] B= {1};
+        Assert.assertEquals(findArray.findArray(A,B), 0);
     }
 
     @Test
     public void testForSubArrayInTheEnd(){
-        int[] A = {1, 3, 5, 3, 6};
-        int [] B= {3, 6};
-        Assert.assertEquals(findArray.findArray(A,B),3);
+        int[] A = {1, 2, 7, 4, 7, 0, 7, 4, 7, 9, 7, 4, 7};
+        int [] B= {7, 4, 7};
+        Assert.assertEquals(findArray.findArray(A,B),10);
     }
 
     @Test
@@ -43,10 +43,16 @@ public class FindArrayImplTest {
     @Test
     public void testIfSubArrayHasMoreLength(){
         int[] A = {1, 3, 5, 3, 6};
-        int [] B= {1, 6,3,4,5,6,7,8,9};
+        int [] B= {1, 6, 3, 4, 5, 6, 7, 8, 9};
         Assert.assertEquals(findArray.findArray(A,B),-1);
     }
 
+    @Test
+    public void testIfArrayIsNull(){
+        int[] A = null;
+        int [] B= {1, 6, 3, 4, 5, 6, 7,8,9};
+        Assert.assertEquals(findArray.findArray(A,B),-1);
+    }
 }
 
 
