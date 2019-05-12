@@ -7,7 +7,9 @@ public class NumberForPalindromes {
     private static Map<String, Integer> numberP(String s) {
         if (s.length() > 1) {
             if (isPalindrome(s)) {
-                map.put(s, 0);
+                if (!map.containsKey(s)) {
+                    map.put(s, 0);
+                }
             }
             String s1 = s.substring(0, s.length() - 1);
             String s2 = s.substring(1, s.length());
