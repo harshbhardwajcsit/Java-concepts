@@ -1,133 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/DualPivotQuicksort.java" description="sort(a, great + 1, right, false);" line="3074" />
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54c40004-2e09-4c99-824e-cbc06444525c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventManager/codebench/atlassian/src/main/java/com/atlassian/interviews/eventsystem/impl/DefaultEventManager.java" afterPath="$PROJECT_DIR$/EventManager/codebench/atlassian/src/main/java/com/atlassian/interviews/eventsystem/impl/DefaultEventManager.java" />
+      <change afterPath="$PROJECT_DIR$/OppsConcepts/RPG/src/main/com/rpg/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OppsConcepts/RPG/src/main/com/rpg/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OppsConcepts/RPG/src/main/com/rpg/Attack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OppsConcepts/RPG/src/main/com/rpg/AttackCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OppsConcepts/RPG/src/main/com/rpg/CharacterRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OppsConcepts/RPG/src/main/com/rpg/Defence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OppsConcepts/RPG/src/main/com/rpg/DefenceCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OppsConcepts/RPG/src/main/com/rpg/GameCharater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OppsConcepts/RPG/src/main/com/rpg/GameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OppsConcepts/RPG/src/main/com/rpg/GameObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OppsConcepts/RPG/src/main/com/rpg/GameResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OppsConcepts/RPG/src/main/com/rpg/GameRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OppsConcepts/RPG/src/main/com/rpg/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OppsConcepts/RPG/src/main/com/rpg/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OppsConcepts/RPG/src/main/com/rpg/Zombie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OppsConcepts/DynamicBinding/src/com/practise/oops/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/OppsConcepts/DynamicBinding/src/com/practise/oops/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OppsConcepts/OppsConcepts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OppsConcepts/OppsConcepts.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuickSort/QuickSort.iml" beforeDir="false" afterPath="$PROJECT_DIR$/QuickSort/java-concepts.iml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Transactions.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Threading/src/BankingNew/Transactions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Deadlock.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Threading/src/Deadlock/Deadlock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AllVowelString.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/codingz/src/AllVowelString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NextGreater.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codingz/src/NextGreater.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="7" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="19" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Resources.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Threading/src/Deadlock/Resources.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-              <folding>
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#140#141#0" expanded="true" />
-                <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#192#193#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberForPalindromes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codingz/src/NumberForPalindromes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="15" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChefAndMangoTrees.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CompetitiveProgramming/codechef/src/com/practise/coding/ChefAndMangoTrees.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaxSumSubsequence.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codingz/src/MaxSumSubsequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MySingleTon.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SingletonPattern/src/com/practise/singleton/MySingleTon.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OutsideEnvironment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SingletonPattern/src/com/practise/singleton/OutsideEnvironment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -136,6 +40,7 @@
         <option value="Interface" />
         <option value="JUnit5 Test Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -173,218 +78,39 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/EventManager/codebench" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/codingz/src/CharacterUniqueness.java" />
-        <option value="$PROJECT_DIR$/codingz/src/isPermutation.java" />
-        <option value="$PROJECT_DIR$/codingz/src/isPermutationTest.java" />
-        <option value="$PROJECT_DIR$/codingz/src/EditDistance.java" />
-        <option value="$PROJECT_DIR$/Threading/src/Bank.java" />
-        <option value="$PROJECT_DIR$/Threading/src/Banking/Bank.java" />
-        <option value="$PROJECT_DIR$/StringConcepts/src/Immutability.java" />
-        <option value="$PROJECT_DIR$/Java8/src/Cars.java" />
-        <option value="$PROJECT_DIR$/Java8/src/TreeMapSamples.java" />
-        <option value="$PROJECT_DIR$/codingz/src/LevelOrderTraversal.java" />
-        <option value="$PROJECT_DIR$/codingz/src/UrlSimplication.java" />
-        <option value="$PROJECT_DIR$/codingz/src/BinaryTree.java" />
-        <option value="$PROJECT_DIR$/codingz/src/MaxSumSubsequence.java" />
-        <option value="$PROJECT_DIR$/codingz/src/ReversString.java" />
-        <option value="$PROJECT_DIR$/codingz/src/FileOperation.java" />
-        <option value="$PROJECT_DIR$/MapDecoder/src/T.java" />
-        <option value="$PROJECT_DIR$/Java8/src/Optional.java" />
-        <option value="$PROJECT_DIR$/Java8/src/OptionalWrapper.java" />
-        <option value="$PROJECT_DIR$/Java8/src/KthLargest.java" />
-        <option value="$PROJECT_DIR$/Java8/src/ComparableExample.java" />
-        <option value="$PROJECT_DIR$/Java8/src/Employee.java" />
-        <option value="$PROJECT_DIR$/Java8/src/EmployeeOperations.java" />
-        <option value="$PROJECT_DIR$/Java8/src/ComaparableVSComparator/EmployeeOperations.java" />
-        <option value="$PROJECT_DIR$/Java8/src/Vechiles.java" />
-        <option value="$PROJECT_DIR$/Java8/src/Bikes.java" />
-        <option value="$PROJECT_DIR$/Java8/src/Immutability/ImmutableClass.java" />
-        <option value="$PROJECT_DIR$/Java8/src/Contract/Movie.java" />
-        <option value="$PROJECT_DIR$/Java8/src/singletonClass.java" />
-        <option value="$PROJECT_DIR$/OppsConcepts/DynamicBinding/src/com/practise/oops/State.java" />
-        <option value="$PROJECT_DIR$/Java8/src/singleton/singletonClass.java" />
-        <option value="$PROJECT_DIR$/Java8/src/FailSafeVsFailFast/FailFast.java" />
-        <option value="$PROJECT_DIR$/Java8/src/FailSafeVsFailFast/FailSafe.java" />
-        <option value="$PROJECT_DIR$/Threading/src/Sample.java" />
-        <option value="$PROJECT_DIR$/Threading/src/Sample2.java" />
-        <option value="$PROJECT_DIR$/Threading/src/Banking/Account.java" />
-        <option value="$PROJECT_DIR$/Java8/src/TreeMap/TreeMapSamples.java" />
-        <option value="$PROJECT_DIR$/Java8/src/TreeMap/TreeMapOperations.java" />
-        <option value="$PROJECT_DIR$/Threading/src/BankingNew/Transactions.java" />
-        <option value="$PROJECT_DIR$/Threading/src/Basics/Sample.java" />
-        <option value="$PROJECT_DIR$/TriesStructure/src/com/practise/trie/Node.java" />
-        <option value="$PROJECT_DIR$/TriesStructure/src/com/practise/trie/Tries.java" />
-        <option value="$PROJECT_DIR$/TriesStructure/src/com/practise/trie/TriesImpl.java" />
-        <option value="$PROJECT_DIR$/Java8/src/StreamAPI.java" />
-        <option value="$PROJECT_DIR$/Threading/src/BankingNew/Account.java" />
-        <option value="$PROJECT_DIR$/codingz/src/CommonString.java" />
-        <option value="$PROJECT_DIR$/codingz/src/CommonStringTest.java" />
-        <option value="$PROJECT_DIR$/codingz/src/NumberForPalindromes.java" />
-        <option value="$PROJECT_DIR$/Threading/src/Deadlock/Resources.java" />
-        <option value="$PROJECT_DIR$/Threading/src/Deadlock/Deadlock.java" />
-        <option value="$PROJECT_DIR$/codingz/src/AllVowelString.java" />
-        <option value="$PROJECT_DIR$/codingz/src/NextGreater.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1698" />
-    <option name="height" value="1034" />
-  </component>
+  <component name="ProjectId" id="1g97T5MwzTu5HlZS950tFkc6om7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="codingz" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="codingz" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="CompetitiveProgramming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="findArray" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="QuickSort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="QuickSort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="QuickSort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="quicksort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="SingletonPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="SingletonPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="SingletonPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Threading" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Threading" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Threading" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BankingNew" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Threading" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Deadlock" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="SearchEverywhereHistoryKey" value="DualPiv&#9;PSI&#9;JAVA://java.util.DualPivotQuicksort&#10;Collection&#9;PSI&#9;JAVA://java.util.Collection&#10;Concur&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Hashta&#9;PSI&#9;JAVA://java.util.Hashtable&#10;Collec&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Collections.java&#10;Comparator&#9;PSI&#9;JAVA://java.util.Comparator&#10;Compara&#9;PSI&#9;JAVA://java.lang.Comparable&#10;Runnab&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Runnable.java&#10;Stream&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/util/stream/Stream.class&#10;Strea&#9;FILE&#9;file://D:/codebasePTC/JavaProject/Java8/src/StreamAPI.java&#10;Optional&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/util/Optional.class&#10;String&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/lang/String.class&#10;Concurre&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;TreeMap&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/util/TreeMap.class&#10;TreeSet&#9;PSI&#9;JAVA://java.util.TreeSet&#10;LinkedHash&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;StringB&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;Integer&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Integer.java&#10;Immuta&#9;FILE&#9;file://D:/codebasePTC/JavaProject/EventManager/codebench/experiments/src/main/java/generics/ImmutableA.java&#10;Immu&#9;RUN_CONFIGURATION&#9;Immutability&#10;String.cl&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/lang/String.class&#10;Inte&#9;PSI&#9;JAVA://java.lang.Integer&#10;Threa&#9;PSI&#9;JAVA://java.lang.Thread&#10;Arrays&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Arrays.java&#10;Character&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/lang/Character.class&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;Colle&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Collection.java&#10;set&#9;PSI&#9;JAVA://java.util.Set&#10;collec&#9;PSI&#9;JAVA://java.util.Collection" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="SearchEverywhereHistoryKey" value="DualPiv&#9;PSI&#9;JAVA://java.util.DualPivotQuicksort&#10;Collection&#9;PSI&#9;JAVA://java.util.Collection&#10;Concur&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Hashta&#9;PSI&#9;JAVA://java.util.Hashtable&#10;Collec&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Collections.java&#10;Comparator&#9;PSI&#9;JAVA://java.util.Comparator&#10;Compara&#9;PSI&#9;JAVA://java.lang.Comparable&#10;Runnab&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Runnable.java&#10;Stream&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/util/stream/Stream.class&#10;Strea&#9;FILE&#9;file://D:/codebasePTC/JavaProject/Java8/src/StreamAPI.java&#10;Optional&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/util/Optional.class&#10;String&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/lang/String.class&#10;Concurre&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;TreeMap&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/util/TreeMap.class&#10;TreeSet&#9;PSI&#9;JAVA://java.util.TreeSet&#10;LinkedHash&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;StringB&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;Integer&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Integer.java&#10;Immuta&#9;FILE&#9;file://D:/codebasePTC/JavaProject/EventManager/codebench/experiments/src/main/java/generics/ImmutableA.java&#10;Immu&#9;RUN_CONFIGURATION&#9;Immutability&#10;String.cl&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/lang/String.class&#10;Inte&#9;PSI&#9;JAVA://java.lang.Integer&#10;Threa&#9;PSI&#9;JAVA://java.lang.Thread&#10;Arrays&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Arrays.java&#10;Character&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/lang/Character.class&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;Colle&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Collection.java&#10;set&#9;PSI&#9;JAVA://java.util.Set&#10;collec&#9;PSI&#9;JAVA://java.util.Collection" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/tetris-interview-master/tetris-interview-master" />
-    <property name="create.test.in.the.same.root" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/OppsConcepts/RPG/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+      <recent name="com.practise.mapdecoder.test" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.practise.warmUp" />
     </key>
@@ -394,13 +120,8 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\codebasePTC\JavaProject\Java8\src" />
-      <recent name="D:\codebasePTC\JavaProject" />
-      <recent name="D:\codebasePTC\JavaProject\CompetitiveProgramming\codechef" />
-      <recent name="D:\codebasePTC\phinex-plaform\JavaProject\OppsConcepts\DynamicBinding" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.com.rpg" />
       <recent name="com.practise.observerpattern" />
       <recent name="" />
     </key>
@@ -409,104 +130,15 @@
       <recent name="D:\codebasePTC\JavaProject\Threading\src\Banking" />
       <recent name="D:\codebasePTC\phinex-plaform\JavaProject\OppsConcepts\StaticBinding\src" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="" />
-      <recent name="com.practise.mapdecoder.test" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/OppsConcepts/RPG/src/main" />
+      <recent name="$PROJECT_DIR$/OppsConcepts/RPG/src" />
+      <recent name="D:\codebasePTC\JavaProject\Java8\src" />
+      <recent name="D:\codebasePTC\JavaProject" />
+      <recent name="D:\codebasePTC\JavaProject\CompetitiveProgramming\codechef" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.AllVowelString">
-    <configuration name="AllVowelString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="AllVowelString" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="codingz" />
-      <envs />
-    </configuration>
-    <configuration name="CommonString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="CommonString" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="codingz" />
-      <envs />
-    </configuration>
-    <configuration name="Deadlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Deadlock.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Deadlock.Deadlock" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Threading" />
-      <envs />
-    </configuration>
-    <configuration name="StreamAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="StreamAPI" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Java8" />
-      <envs />
-    </configuration>
-    <configuration name="Transactions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="BankingNew.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="BankingNew.Transactions" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Threading" />
-      <envs />
-    </configuration>
+  <component name="RunManager" selected="Application.GameRunner">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -514,100 +146,126 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
+    <configuration name="AllVowelString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AllVowelString" />
+      <module name="codingz" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CommonString" />
+      <module name="codingz" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Deadlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Deadlock.Deadlock" />
+      <module name="Threading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Deadlock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.com.rpg.GameRunner" />
+      <module name="OppsConcepts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.com.rpg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Transactions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BankingNew.Transactions" />
+      <module name="Threading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BankingNew.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Transactions" />
-      <item index="1" class="java.lang.String" itemvalue="Application.StreamAPI" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CommonString" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Deadlock" />
-      <item index="4" class="java.lang.String" itemvalue="Application.AllVowelString" />
+    <list>
+      <item itemvalue="Application.Transactions" />
+      <item itemvalue="Application.CommonString" />
+      <item itemvalue="Application.Deadlock" />
+      <item itemvalue="Application.AllVowelString" />
+      <item itemvalue="Application.GameRunner" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.AllVowelString" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Deadlock" />
-        <item index="2" class="java.lang.String" itemvalue="Application.CommonString" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Transactions" />
-        <item index="4" class="java.lang.String" itemvalue="Application.StreamAPI" />
+      <list>
+        <item itemvalue="Application.GameRunner" />
+        <item itemvalue="Application.AllVowelString" />
+        <item itemvalue="Application.Deadlock" />
+        <item itemvalue="Application.CommonString" />
+        <item itemvalue="Application.Transactions" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -709,128 +367,78 @@
       <workItem from="1557739630789" duration="661000" />
       <workItem from="1558093583845" duration="2942000" />
       <workItem from="1558343486979" duration="504000" />
+      <workItem from="1597514960360" duration="8347000" />
+      <workItem from="1597596135485" duration="2589000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="CharacterUniquenessTest - 2019.02.04 at 17h 55m 31s.xml">
-      <configuration name="CharacterUniquenessTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CharacterUniquenessTest - 2019.02.04 at 17h 57m 18s.xml">
-      <configuration name="CharacterUniquenessTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CharacterUniquenessTest - 2019.02.04 at 17h 57m 42s.xml">
-      <configuration name="CharacterUniquenessTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CharacterUniquenessTest - 2019.02.04 at 17h 58m 38s.xml">
-      <configuration name="CharacterUniquenessTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CharacterUniquenessTest_findIsStringHasUniqueCharacter - 2019.02.04 at 17h 34m 21s.xml">
-      <configuration name="CharacterUniquenessTest.findIsStringHasUniqueCharacter" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="isPermutationTest - 2019.02.05 at 00h 00m 42s.xml">
-      <configuration name="isPermutationTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="isPermutationTest - 2019.02.05 at 00h 00m 59s.xml">
-      <configuration name="isPermutationTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="isPermutationTest - 2019.02.05 at 00h 18m 59s.xml">
-      <configuration name="isPermutationTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="isPermutationTest - 2019.02.05 at 00h 20m 25s.xml">
-      <configuration name="isPermutationTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="isPermutationTest - 2019.02.05 at 00h 20m 50s.xml">
-      <configuration name="isPermutationTest" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="313074000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1064" extended-state="7" />
-    <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13043478" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24972972" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30348837" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="412" y="204" width="856" height="593" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17587373" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Codota" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22886133" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40465117" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17502668" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5382746" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13043478" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24972972" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30348837" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="412" y="204" width="856" height="593" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17587373" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Codota" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22933644" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40465117" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17502668" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5382746" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="WindowStateProjectService">
+    <state x="533" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1597572807581">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="533" y="146" key="#com.intellij.ide.util.MemberChooser/0.23.1440.819@0.23.1440.819" timestamp="1597572807581" />
+    <state x="215" y="364" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597515358856">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="215" y="364" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.820@0.23.1440.820" timestamp="1597515358856" />
+    <state x="458" y="186" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597568376956">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="458" y="186" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.819@0.23.1440.819" timestamp="1597568376956" />
+    <state x="431" y="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1597572825716">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="431" y="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.819@0.23.1440.819" timestamp="1597572825716" />
+    <state x="220" y="23" key="CommitChangelistDialog2" timestamp="1597567972041">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="220" y="23" key="CommitChangelistDialog2/0.23.1440.819@0.23.1440.819" timestamp="1597567972041" />
+    <state width="1398" height="2" key="GridCell.Tab.0.bottom" timestamp="1597574601094">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1597574601094" />
+    <state width="1398" height="2" key="GridCell.Tab.0.center" timestamp="1597574601093">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1597574601093" />
+    <state width="1398" height="2" key="GridCell.Tab.0.left" timestamp="1597574601078">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1597574601078" />
+    <state width="1398" height="2" key="GridCell.Tab.0.right" timestamp="1597574601093">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1597574601093" />
+    <state x="208" y="23" width="1024" height="819" key="SettingsEditor" timestamp="1597603314445">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="208" y="23" width="1024" height="819" key="SettingsEditor/0.23.1440.819@0.23.1440.819" timestamp="1597603314445" />
+    <state x="208" y="23" width="1024" height="820" key="SettingsEditor/0.23.1440.820@0.23.1440.820" timestamp="1597518480483" />
+    <state width="781" height="445" key="SwitcherDM" timestamp="1597567941280">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="781" height="445" key="SwitcherDM/0.23.1440.819@0.23.1440.819" timestamp="1597567941280" />
+    <state x="501" y="218" key="chooseDestDirectoryDialog" timestamp="1597515336142">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="501" y="218" key="chooseDestDirectoryDialog/0.23.1440.820@0.23.1440.820" timestamp="1597515336142" />
+    <state x="519" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597567944969">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="519" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.819@0.23.1440.819" timestamp="1597567944969" />
+    <state x="519" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.820@0.23.1440.820" timestamp="1597518066785" />
+    <state x="549" y="210" key="refactoring.ChangeSignatureDialog" timestamp="1597568823936">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="549" y="210" key="refactoring.ChangeSignatureDialog/0.23.1440.819@0.23.1440.819" timestamp="1597568823936" />
+    <state x="385" y="167" width="670" height="676" key="search.everywhere.popup" timestamp="1597567979284">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="385" y="167" width="670" height="676" key="search.everywhere.popup/0.23.1440.819@0.23.1440.819" timestamp="1597567979284" />
+    <state x="385" y="167" width="670" height="676" key="search.everywhere.popup/0.23.1440.820@0.23.1440.820" timestamp="1597518383582" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -838,475 +446,19 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/codingz/src/MagicalArray.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Java8/src/StreamAPI.java</url>
           <line>136</line>
-          <properties />
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Java8/src/ComaparableVSComparator/EmployeeOperations.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="78" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="90" />
     </breakpoint-manager>
-    <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Threading/src/Account.java" />
-    <entry file="file://$PROJECT_DIR$/Threading/src/Banking/Bank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29175">
-          <caret line="1240" column="35" lean-forward="false" selection-start-line="1240" selection-start-column="35" selection-end-line="1240" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Threading/src/Sample.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="55" column="17" lean-forward="false" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java8/src/TreeMap/TreeMapSamples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java8/src/ComaparableVSComparator/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="41" column="17" lean-forward="false" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="429" column="14" lean-forward="false" selection-start-line="429" selection-start-column="14" selection-end-line="429" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="128" column="13" lean-forward="true" selection-start-line="128" selection-start-column="13" selection-end-line="128" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="102" column="31" lean-forward="true" selection-start-line="102" selection-start-column="31" selection-end-line="102" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EventManager/codebench/experiments/src/main/java/flattenTree/MyFlattenTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1475">
-          <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1345">
-          <caret line="77" column="14" lean-forward="false" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/TreeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="859" column="15" lean-forward="true" selection-start-line="859" selection-start-column="15" selection-end-line="859" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/AbstractMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="423" column="22" lean-forward="true" selection-start-line="423" selection-start-column="22" selection-end-line="423" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="2560" column="8" lean-forward="false" selection-start-line="2560" selection-start-column="8" selection-end-line="2560" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java8/src/ComaparableVSComparator/EmployeeOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java8/src/TreeMap/TreeMapOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="36" column="59" lean-forward="false" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Threading/src/Banking/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/DualPivotQuicksort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Threading/src/Synchronization1.java" />
-    <entry file="file://$PROJECT_DIR$/Threading/src/Sample2.java" />
-    <entry file="file://$PROJECT_DIR$/Threading/src/Basics/Sample2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Threading/src/Basics/Sample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TriesStructure/src/com/practise/trie/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TriesStructure/src/com/practise/trie/RootNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TriesStructure/src/com/practise/trie/Tries.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TriesStructure/src/com/practise/trie/TriesImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java8/src/StreamAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1600">
-          <caret line="78" column="31" lean-forward="false" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="31" />
-          <folding>
-            <element signature="e#2155#2156#0" expanded="true" />
-            <element signature="e#2193#2194#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Optional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="49" column="19" lean-forward="false" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java8/src/Vechiles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Threading/src/BankingNew/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codingz/src/CommonString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codingz/src/CommonStringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codingz/src/Uniquesness.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codingz/src/UrlSimplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codingz/src/MagicalArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JavaScript-modules-diagram/D:/codebasePTC/JavaProject/CompetitiveProgramming">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/CompetitiveProgramming</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="569.0" y="384.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>Details</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CompetitiveProgramming/codechef/src/com/practise/coding/SpellBob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QuickSort/src/com/dsa/quicksort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QuickSort/src/com/dsa/quicksort/QuickSortImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SingletonPattern/src/com/practise/singleton/MySingleTon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SingletonPattern/src/com/practise/singleton/OutsideEnvironment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CompetitiveProgramming/codechef/src/com/practise/coding/ChefAndMangoTrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codingz/src/MaxSumSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Threading/src/Deadlock/Resources.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Threading/src/BankingNew/Transactions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Threading/src/Deadlock/Deadlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codingz/src/NumberForPalindromes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="15" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codingz/src/NextGreater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="7" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="19" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codingz/src/AllVowelString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>okta-sign-in</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>QuickSort</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Arquillian JUnit:Release</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

@@ -11,7 +11,6 @@
       <module fileurl="file://$PROJECT_DIR$/MapDecoder/MapDecoder.iml" filepath="$PROJECT_DIR$/MapDecoder/MapDecoder.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" filepath="$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/OppsConcepts/OppsConcepts.iml" filepath="$PROJECT_DIR$/OppsConcepts/OppsConcepts.iml" />
-      <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" filepath="$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringConcepts/StringConcepts.iml" filepath="$PROJECT_DIR$/StringConcepts/StringConcepts.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threading/Threading.iml" filepath="$PROJECT_DIR$/Threading/Threading.iml" />
@@ -19,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/WarmUp/WarmUp.iml" filepath="$PROJECT_DIR$/WarmUp/WarmUp.iml" />
       <module fileurl="file://$PROJECT_DIR$/codingz/codingz.iml" filepath="$PROJECT_DIR$/codingz/codingz.iml" />
       <module fileurl="file://$PROJECT_DIR$/findArray/findArray.iml" filepath="$PROJECT_DIR$/findArray/findArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickSort/java-concepts.iml" filepath="$PROJECT_DIR$/QuickSort/java-concepts.iml" />
     </modules>
   </component>
 </project>

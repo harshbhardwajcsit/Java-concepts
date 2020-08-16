@@ -8,7 +8,7 @@ public class State extends Country{
         System.out.println("State ppl are called");
     }
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         Country country=new State();
 
